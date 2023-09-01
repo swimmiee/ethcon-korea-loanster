@@ -1,0 +1,3 @@
+[submodule "ethcon-seoul-toaster-frontend"]
+	path = ethcon-seoul-toaster-frontend
+	url = https://github.com/swimmiee/ethcon-seoul-toaster-frontend
