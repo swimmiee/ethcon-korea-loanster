@@ -1,3 +1,6 @@
 [submodule "ethcon-seoul-toaster-frontend"]
 	path = ethcon-seoul-toaster-frontend
 	url = https://github.com/swimmiee/ethcon-seoul-toaster-frontend
+[submodule "ethcon-korea-toaster-contract"]
+	path = ethcon-korea-toaster-contract
+	url = https://github.com/djm07073/ethcon-korea-toaster-contract
