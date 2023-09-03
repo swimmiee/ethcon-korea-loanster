@@ -108,6 +108,12 @@ We added a function to the router (toaster) contract we created to perform the p
 
 <img width="1440" alt="스크린샷 2023-09-03 오전 10 18 51" src="https://github.com/swimmiee/ethcon-korea-loanster/assets/89185836/6b03deb2-ad72-415a-ae13-fa8d24bceff4">
 
-**5. Finally, Click the button to make the multiple transactions.(deposit + borrow + swap for matching rate + addliquidity)**
-<img width="1440" alt="스크린샷 2023-09-03 오전 10 19 09" src="https://github.com/swimmiee/ethcon-korea-loanster/assets/89185836/39287914-f69e-46a1-b753-980bf4d31200">
+**5. Finally, Click the buttons to make the multiple transactions.(deposit + borrow + swap for matching rate + addliquidity)**
+
+<img width="1022" alt="스크린샷 2023-09-03 오전 11 39 07" src="https://github.com/swimmiee/ethcon-korea-loanster/assets/89185836/3ab1638d-2fcd-4715-ae2d-92e8a3b32791">
+<img width="1022" alt="스크린샷 2023-09-03 오전 11 39 25" src="https://github.com/swimmiee/ethcon-korea-loanster/assets/89185836/02717bb8-3d97-4b5e-8cb0-9a75c06a2ae8">
+<img width="1022" alt="스크린샷 2023-09-03 오전 11 40 04" src="https://github.com/swimmiee/ethcon-korea-loanster/assets/89185836/f1df44d9-5de1-4d5e-8708-83a05a060528">
+<img width="1022" alt="스크린샷 2023-09-03 오전 11 40 22" src="https://github.com/swimmiee/ethcon-korea-loanster/assets/89185836/d70ff0c6-b793-4a69-bb1c-867b61dd4e62">
+<img width="1022" alt="스크린샷 2023-09-03 오전 11 40 40" src="https://github.com/swimmiee/ethcon-korea-loanster/assets/89185836/fe0fdc24-ce27-471d-930b-8adb9c318bfb">
+<img width="1022" alt="스크린샷 2023-09-03 오전 11 42 54" src="https://github.com/swimmiee/ethcon-korea-loanster/assets/89185836/4bbc3d65-b7d1-42d9-9967-d4c37ce46ce6">
 
