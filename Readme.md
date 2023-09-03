@@ -24,8 +24,8 @@
 - Toaster Contract: [0xb8e0cdbad514edc1e8e790f4b6f5f613361802a7](https://optimistic.etherscan.io/address/0xb8e0cdbad514edc1e8e790f4b6f5f613361802a7)
 
 **[Taiko Testnet]**
-- Menu Contract: [0xa48719d977e5823a7881ba3d7a49b81673adaebb](https://zkevm.polygonscan.com/address/0xa48719d977e5823a7881ba3d7a49b81673adaebb)
-- Toaster Contract: [0xb8e0cdbad514edc1e8e790f4b6f5f613361802a7](https://zkevm.polygonscan.com/address/0xb8e0cdbad514edc1e8e790f4b6f5f613361802a7)
+- Menu Contract: [0xa48719d977e5823a7881ba3d7a49b81673adaebb]
+- Toaster Contract: [0xb8e0cdbad514edc1e8e790f4b6f5f613361802a7]
 
 ## Problem
 ### 1. UniswapV3 IL (Unstable - stable pool)
