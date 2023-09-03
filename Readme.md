@@ -28,7 +28,7 @@
 - Toaster Contract: [0xb8e0cdbad514edc1e8e790f4b6f5f613361802a7]
 
 ## Problem
-### 1. UniswapV3 IL (Unstable - stable pool)
+### 1. UniswapV3 Impermanent Loss (Unstable - stable pool)
 Uniswap V3 is more damaging to ILs than the original Uniswap V2.  Below is a graph of IL as a function of range for a pair of unstable and stable coins (x-axis is the percentage change in price, y-axis is the value of liquidity).
 
 https://github.com/swimmiee/ethcon-seoul-toaster/assets/89185836/454b6792-e14c-4cbe-8e7d-0397f07dfd3e
